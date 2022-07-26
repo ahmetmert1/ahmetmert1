@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Ahmet Mert ÖZ</h1>
 <h3 align="center">I am a Computer Science student at Bursa Technical University</h3>
 
-- I’m currently learning **Mobile Development**
+- I’m currently learning **iOS Development**
 
 <div>
     <img align='right' src="https://github-readme-stats.vercel.app/api?username=ahmetmert1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
